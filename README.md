@@ -26,7 +26,7 @@
     <img src="https://logo.svgcdn.com/logos/mysql.png" alt="SQL" width="40" height="40" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://logo.svgcdn.com/devicon-plain/scikitlearn-plain.png" alt="scikit-learn" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
   </a>
 </p>
 
