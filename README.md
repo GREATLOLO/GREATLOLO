@@ -20,7 +20,7 @@
 
 ## 🔧 My Skills
 
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://logo.svgcdn.com/logos/python.png" alt="Python" width="40" height="40" />
   </a>
