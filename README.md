@@ -23,25 +23,27 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://logo.svgcdn.com/logos/python.png" width="40" height="40" alt="Python" />
+      <img src="./assets/python.svg" width="40" height="40" alt="Python" />
     </td>
     <td align="center" width="80">
-      <img src="https://logo.svgcdn.com/logos/javascript.png" width="40" height="40" alt="JavaScript" />
+      <img src="./assets/Java.svg" width="40" height="40" alt="JavaScript" />
     </td>
     <td align="center" width="80">
-      <img src="https://logo.svgcdn.com/devicon/cplusplus-original.png" width="40" height="40" alt="C++" />
+      <img src="./assets/C++.svg" width="40" height="40" alt="C++" />
     </td>
     <td align="center" width="80">
-      <img src="https://logo.svgcdn.com/logos/pytorch.png" width="40" height="40" alt="PyTorch" />
+      <img src="./assets/pyTorch.svg" width="40" height="40" alt="PyTorch" />
     </td>
     <td align="center" width="80">
-      <img src="https://logo.svgcdn.com/devicon-plain/pandas-plain.png" width="40" height="40" alt="Pandas" />
+      <img src="./assets/pandas.svg" width="40" height="40" alt="Pandas" />
     </td>
     <td align="center" width="80">
-      <img src="https://logo.svgcdn.com/logos/mysql.png" width="40" height="40" alt="MySQL" />
+      <img src="./assets/mySQL.svg" width="40" height="40" alt="MySQL" />
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn" />
+      <img src="./assets/scikitLearn.svg" width="40" height="40" alt="scikit-learn" />
     </td>
   </tr>
 </table>
+
+
