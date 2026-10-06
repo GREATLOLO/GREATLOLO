@@ -9,7 +9,7 @@
        align="right" />
 
   <ul>
-    <li>UCSD student</li>
+    <li>UCLA master student</li>
     <li>Data science / machine learning enthusiast</li>
     <li>Building projects and learning every day</li>
   </ul>
