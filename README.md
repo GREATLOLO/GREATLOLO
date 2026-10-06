@@ -10,7 +10,7 @@
 
   <ul>
     <li>UCLA master student</li>
-    <li>Data science / machine learning enthusiast</li>
+    <li>Data science / AI enthusiast</li>
     <li>Building projects and learning every day</li>
   </ul>
 </div>
